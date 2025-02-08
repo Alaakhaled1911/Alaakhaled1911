@@ -7,7 +7,7 @@ My strongest skills are mainly React js and Node.js as I have kept on coding and
 ## Additional information
 Also experienced in developing web apps with Node.js. Knowledgeable in writing clean code, testing, and debugging processes. Team Player with the ability to work under immense pressure.
 
-I have done a lot of projects for myself and for freelance works with React, Node.js. I have a fascination with Next.js and I am re-building my portfolio website with Next.js. I am also trying to use Three.js to have some 3D animations in it.
+I have done a lot of projects for myself and for freelance works with React, Node.js. I have a fascination with Next.js and I am re-building my portfolio website with Next.js. 
 
 I also write some tech articles which I find out researching from the internet as well as from my own experience.
 
