@@ -48,5 +48,6 @@ I also write some tech articles which I find out researching from the internet a
 ---
 
 ## 📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api?username=Alaakhaled1911&show_icons=true&theme=dark
+https://github-readme-stats.vercel.app/api/wakatime?username=Alaakhaled1911
+
 
