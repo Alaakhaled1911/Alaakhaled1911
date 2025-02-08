@@ -1,15 +1,14 @@
-# I am...
-Frontend Developer currently working at MultiSync. I have experience with React js,Next js,Node.js.
+About Me
+I'm a Frontend Developer at MultiSync with expertise in React.js and Next.js. Over time, I expanded my skills to backend development, allowing me to build full-stack MERN applications.
 
-## My strongest skills and how I learned them...
-My strongest skills are mainly React js and Node.js as I have kept on coding and creating projects.
+My Core Skills & How I Built Them
+I specialize in React.js and Next.js, continuously improving through real-world projects. I also learned Node.js, Express.js, and MongoDB, enabling me to develop scalable full-stack applications.
 
-## Additional information
-Also experienced in developing web apps with Node.js. Knowledgeable in writing clean code, testing, and debugging processes. Team Player with the ability to work under immense pressure.
+More About Me
+I have experience developing, testing, and debugging web apps. I focus on writing clean, maintainable code and thrive in team environments under pressure.
 
-I have done a lot of projects for myself and for freelance works with React, Node.js. I have a fascination with Next.js and I am re-building my portfolio website with Next.js. 
+I've worked on multiple projects, both personally and as a freelancer, and I'm currently enhancing my backend skills to become a more well-rounded developer
 
-I also write some tech articles which I find out researching from the internet as well as from my own experience.
 
 ---
 
