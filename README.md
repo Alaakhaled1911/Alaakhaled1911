@@ -1,4 +1,5 @@
 About Me
+
 I'm a Frontend Developer at MultiSync with expertise in React.js and Next.js. Over time, I expanded my skills to backend development, allowing me to build full-stack MERN applications.
 
 My Core Skills & How I Built Them
