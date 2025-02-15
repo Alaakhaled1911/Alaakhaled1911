@@ -40,6 +40,17 @@ I've worked on multiple projects, both personally and as a freelancer, and I'm c
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Alaakhaled1911&theme=noctis_minimus&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alaakhaled1911&theme=noctis_minimus&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaakhaled1911&theme=noctis_minimus&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+[![](https://visitcount.itsvg.in/api?id=zekooo0&icon=0&color=2)](https://visitcount.itsvg.in)
+
 
 
 
