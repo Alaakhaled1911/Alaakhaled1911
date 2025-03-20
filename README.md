@@ -51,8 +51,8 @@ Full-Stack Developer with expertise in React.js and Next.js, currently working a
 
 ## 🏆 Certifications & Achievements
 
-- [Certification Name](https://certification-link.com) - Issuing Organization (Year)
-- [Achievement Name](https://achievement-link.com) - Details (Year)
+-  ITI (2024)
+  
 
 ## 📫 Connect With Me
 
