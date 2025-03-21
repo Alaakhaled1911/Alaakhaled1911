@@ -8,7 +8,7 @@ Full-Stack Developer with expertise in React.js and Next.js, currently working a
 - 🔭 I'm currently working on enhancing my backend skills
 - 🌱 I'm learning advanced Node.js patterns and microservices architecture
 - 💬 Ask me about React, Next.js, and full-stack development
-- 📫 How to reach me: [alaak101@linkedin.com](mailto:your-email@example.com)
+- 📫 How to reach me: [alaak101@linkedin.com](mailto:alaak19620@gmail.com)
 
 ## 🛠️ Skills & Technologies
 
