@@ -3,7 +3,7 @@
 
 ## 👩🏻‍💻 About Me
 
-Full-Stack Developer with expertise in React.js and Next.js, currently working at MultiSync. I've expanded my skills from frontend to backend development, enabling me to build comprehensive MERN stack applications. I focus on writing clean, maintainable code and thrive in collaborative team environments, even under pressure.
+Front-End Developer with expertise in React.js and Next.js, currently working at MultiSync. I've expanded my skills from frontend to backend development, enabling me to build comprehensive MERN stack applications. I focus on writing clean, maintainable code and thrive in collaborative team environments, even under pressure.
 
 - 🔭 I'm currently working on enhancing my backend skills
 - 🌱 I'm learning advanced Node.js patterns and microservices architecture
