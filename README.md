@@ -1,4 +1,4 @@
-# Alaa Khaled | Front-End Developer
+# Alaa Khaled 
 
 
 ## 👩🏻‍💻 About Me
